@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/borbiro-paul-portofolio/static/css/main.073c9b0a.css",
+    "main.js": "/borbiro-paul-portofolio/static/js/main.f900f652.js",
+    "static/js/787.b232853c.chunk.js": "/borbiro-paul-portofolio/static/js/787.b232853c.chunk.js",
+    "static/media/logo.svg": "/borbiro-paul-portofolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/borbiro-paul-portofolio/index.html",
+    "main.073c9b0a.css.map": "/borbiro-paul-portofolio/static/css/main.073c9b0a.css.map",
+    "main.f900f652.js.map": "/borbiro-paul-portofolio/static/js/main.f900f652.js.map",
+    "787.b232853c.chunk.js.map": "/borbiro-paul-portofolio/static/js/787.b232853c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f900f652.js"
+  ]
+}
